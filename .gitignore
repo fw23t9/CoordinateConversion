@@ -1,0 +1,20 @@
+
+# vscode files
+.vscode/
+setting.json
+
+# build output directories
+build/
+
+# node files
+node_modules/
+package-lock.json
+
+# py
+__pycache__/
+
+# csharp
+bin/
+obj/
+.vs/
+packages/
